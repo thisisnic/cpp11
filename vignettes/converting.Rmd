@@ -32,6 +32,7 @@ It is also a place to highlight some of the largest differences between Rcpp and
 | IntegerVector           | integers              | writable::integers | <cpp11/integers.hpp>         |
 | CharacterVector         | strings               | writable::strings  | <cpp11/strings.hpp>          |
 | RawVector               | raws                  | writable::raws     | <cpp11/raws.hpp>             |
+| LogicalVector           | logicals              | writable::logicals | <cpp11/logicals.hpp>         |
 | List                    | list                  | writable::list     | <cpp11/list.hpp>             |
 | RObject                 | sexp                  |                    | <cpp11/sexp.hpp>             |
 | XPtr                    |                       | external_pointer   | <cpp11/external_pointer.hpp> |
